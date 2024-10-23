@@ -1,5 +1,3 @@
-## Binder is looking for a new maintainer. Please get in touch if interested.
-
 Binder
 ======
 
@@ -170,7 +168,7 @@ The latest stable release of Binder is available via [MELPA-stable][1].
 First, add MELPA-stable to your package archives:
 
     M-x customize-option RET package-archives RET
-    
+
 Insert an entry named `melpa-stable` with URL:
 https://stable.melpa.org/packages/
 
