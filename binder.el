@@ -7,7 +7,7 @@
 ;; Keywords: files, outlines, wp, text
 ;; Version: 0.5.0
 ;; Package-Requires: ((emacs "24.4") (seq "2.20"))
-;; URL: https://github.com/rnkn/binder
+;; URL: https://codeberg.org/divyaranjan/binder
 
 ;; This file is not part of GNU Emacs.
 
