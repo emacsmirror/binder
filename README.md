@@ -1,9 +1,6 @@
 Binder
 ======
 
-[![MELPA Stable](https://stable.melpa.org/packages/binder-badge.svg)][1]
-[![MELPA](https://melpa.org/packages/binder-badge.svg)][2]
-
 ![screenshot](screenshots/01.png)
 
 Binder is global minor mode to facilitate working on a writing project
