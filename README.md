@@ -193,7 +193,7 @@ and add to your `init.el` file:
 If you wish to contribute to or alter Binder's code, clone the
 repository into your load-path and require as above:
 
-    git clone https://github.com/rnkn/binder.git
+    git clone https://codeberg.org/divyaranjan/binder.git
 
 
 Bugs and Feature Requests
