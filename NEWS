@@ -1,4 +1,4 @@
-* current
+* Version 0.5.0
 
 - Use buttons in sidebar, allowing mouse interaction
 - Remove "include" and "concat" feature, this is better served with tags
@@ -12,6 +12,7 @@
   tags
 - Append faces in sidebar to allow multiple faces, e.g. button +
   binder-sidebar-highlight
+- Change git reposistory hosting from Github to Codeberg
 
 * Version 0.4.4
 
